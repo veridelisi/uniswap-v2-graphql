@@ -1,4 +1,7 @@
 # Graphql Uniswap v2
+<br>
+pip install gql
+<br>
 
 https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2
 <br>
