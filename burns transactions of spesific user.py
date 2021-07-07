@@ -1,4 +1,3 @@
-pip install gql
 
 
 from gql import gql, Client
